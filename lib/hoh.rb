@@ -31,7 +31,7 @@
 # }
 
 def naming_system
-  Pro_1 = {
+  pro_1 = {
   label: "Kingdom",
   sub_category: {
     label: "Phylum",
