@@ -30,26 +30,18 @@
 #   sub_category: nil
 # }
 
-def naming_system
-  pro_1 = {
-  label: "Kingdom",
-  sub_category: {
-    label: "Phylum",
-    sub_category: {
-      label: "Class"
-  pro_3={
-  sub_category:"order" 
+# def naming_system
+#   pro_1 = {
+#   label: "Kingdom",
+#   sub_category: {
+#     label: "Phylum",
+#     sub_category: {
+#       label: "Class"
   
   
-  pro=
-{
- :info =>{ 
-   :age =>23,
-:name =>{:sara =>{:nice =>{:her_value =>"she_sweet"},
-    :bday =>{:april_23rd =>"her_bday"}
-
-}}}}
-
+  
+#   pro_3={
+#   sub_category:"order" 
   
   # Remember:
   #  Kingdom
