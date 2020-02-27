@@ -37,20 +37,23 @@ def naming_system
     label: "Phylum",
     sub_category: {
       label: "Class"
-    }
-  }
-}
-
+  pro_3={
+  sub_category:"order" 
+  
+  
+  
+  
   # Remember:
   #  Kingdom
   #  Phylum
   #  Class
   #  Family
-  pro_3={
-  sub_category:"order"# 
   #  Genus
   #  Species
   # So, if we have the "Kingdom" node we should be able to "tunnel" into the
   # HoH all the way to Species!
+
+  }
+}
 
 end
